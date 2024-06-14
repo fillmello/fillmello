@@ -17,7 +17,7 @@ I'm on high school's last year. Im willing to join an University called [PUC Min
 
 I'm from Brazil, but with the intention of moving out do Canada.
 
-I got my profile stats [at this link](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance)
+I got my profile stats [at this link](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
 
 
 
