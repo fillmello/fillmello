@@ -4,9 +4,10 @@
 
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=dracula)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fillmello&icons=true&theme=dracula)](https://github.com/fillmello/github-readme-stats)
 
+
+![fillmello's GitHub stats](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=dracula&hide_border=true&card_hieght=150&border_radius=0)
+<img src="https://github.com/fillmello/fillmello/assets/172687334/26379828-9e6f-4b0f-bbe3-503bef948324" width="540" height="194">
 
 ---
 
