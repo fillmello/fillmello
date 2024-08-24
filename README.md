@@ -43,7 +43,7 @@ I got my profile stats [at this link](https://github.com/anuraghazra/github-read
 ## Social Media
 
 
-   * Here, you cna find my [Instagram](https://www.instagram.com/fillmello?igsh=YTRqdDNzYnQ3ZW82&utm_source=qr).
+   * Here, you can find my [Instagram](https://www.instagram.com/fillmello?igsh=YTRqdDNzYnQ3ZW82&utm_source=qr).
 
   * And Here, you can find my [Spotify](https://open.spotify.com/user/316j6png5c5nz2syb4423ccoxdai?si=RwpJ1MKvSy-2coPsmTr8vQ).
 
