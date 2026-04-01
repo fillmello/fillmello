@@ -1,7 +1,7 @@
 ## Oiii, eu sou o Mello! 🚀
-### Team Leader @ WebTech | Monitor de AEDS I na PUC Minas
+### **`Desenvolvedor FullStack`** | Team Leader @ WebTech | Monitor de AEDS I na PUC Minas
 
-Atualmente lidero equipes de desenvolvimento no **WebTech Network**, focando no portal de Pós-Graduação da **PUC Minas**. Além disso, atuo como Monitor da disciplina de **Algoritmos e Estruturas de Dados I**. Sou apaixonado por arquitetura de software, eficiência (Amdahl's Law!) e automação de fluxos de trabalho.
+Atualmente lidero equipes de desenvolvimento no **WebTech Network**, focando no portal de Pós-Graduação da **PUC Minas**. Além disso, atuo como Monitor da disciplina de **Algoritmos e Estruturas de Dados I**. Sou apaixonado por arquitetura de software, eficiência e automação de fluxos de trabalho.
 
 ---
 
@@ -14,7 +14,6 @@ Atualmente lidero equipes de desenvolvimento no **WebTech Network**, focando no 
   <img align="center" alt="Mello-Express" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original.svg">
   <img align="center" alt="Mello-C" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg">
   <img align="center" alt="Mello-Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
-  <img align="center" alt="Mello-Obsidian" height="30" width="40" src="https://img.icons8.com/external-tal-revivo-bold-tal-revivo/24/FFFFFF/external-obsidian-a-powerful-knowledge-base-that-works-on-top-of-a-local-folder-of-plain-text-markdown-files-logo-bold-tal-revivo.png">
 </div>
 
 ---
@@ -22,22 +21,15 @@ Atualmente lidero equipes de desenvolvimento no **WebTech Network**, focando no 
 ### 📫 Vamos nos conectar?
 
 <div> 
-  <a href="https://www.linkedin.com/in/SEU_USER_AQUI" target="_blank">
-    <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white">
-  </a> 
-  <a href="mailto:SEU_EMAIL@AQUI.com">
-    <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white">
-  </a>
-  <a href="https://github.com/SEU_USER_AQUI">
-    <img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=ko-fi&logoColor=white">
-  </a>
+  <a href="https://instagram.com/fillmello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://discord.com/users/fillmello" target="_blank"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"></a> 
+  <a href="mailto:fillmellodev@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="https://www.linkedin.com/in/fillmellodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
 ---
 
 ### 📊 Github Stats
 
-Se os status abaixo não aparecerem, a API pode estar fora do ar. Você pode configurar sua própria instância seguindo este [tutorial](https://github.com/anuraghazra/github-readme-stats/blob/master/readme.md#deploy-on-your-own-vercel-instance).
-
-![Status do Github](https://github-readme-stats.vercel.app/api?username=SEU_USER_AQUI&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USER_AQUI&layout=compact&theme=tokyonight)
+![Status do Github](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=tokyonight)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fillmello&layout=compact&theme=tokyonight)
