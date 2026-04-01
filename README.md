@@ -1,5 +1,5 @@
 ## Oiii, eu sou o Mello! 🚀
-### `Desenvolvedor FullStack` | Front-end & UX
+### `Desenvolvedor Front-end`
 
 
 Atuo em Belo Horizonte, no Webtech Network, e estou cursando o 3º período de Engenharia de Software na **PUC Minas**. Atualmente, sou **Team Leader de uma equipe responsável pelo desenvolvimento do portal de Pós-Graduação da universidade.
@@ -32,9 +32,3 @@ Minha abordagem no desenvolvimento prioriza entender a verdadeira dor do cliente
   <a href="https://www.linkedin.com/in/fillmellodev" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 </div>
 
----
-
-### 📊 Github Stats
-
-![Status do Github](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fillmello&layout=compact&theme=tokyonight)
