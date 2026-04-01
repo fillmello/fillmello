@@ -1,8 +1,5 @@
 # Learning Software Engineering Basics
 
-![PUCPUC](https://github.com/fillmello/fillmello/assets/172687334/eb0d95c7-b428-4e65-9128-8728143dacb2)
-
-
 
 
 ![fillmello's GitHub stats](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=dracula&hide_border=true&card_hieght=123&border_radius=0)
