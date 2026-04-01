@@ -1,7 +1,10 @@
 ## Oiii, eu sou o Mello! 🚀
-### *`Desenvolvedor FullStack`* 
+### `Desenvolvedor FullStack`
+#### Engenharia de Software @ PUC Minas
 
-Atualmente lidero equipes de desenvolvimento no **WebTech Network**, focando no portal de Pós-Graduação da **PUC Minas**. Além disso, atuo como Monitor da disciplina de **Algoritmos e Estruturas de Dados I**. Sou apaixonado por arquitetura de software, eficiência e automação de fluxos de trabalho.
+Natural de Belo Horizonte e cursando o 3º período de Engenharia de Software na **PUC Minas**. Atualmente, divido meu tempo entre a **Monitoria de AEDS I** e a liderança de equipes no **WebTech Network**, onde atuamos no portal de Pós-Graduação da universidade. 
+
+Sou apaixonado por transformar lógica em interfaces web escaláveis, sempre priorizando uma experiência de usuário limpa, moderna e eficiente.
 
 ---
 
@@ -31,7 +34,3 @@ Atualmente lidero equipes de desenvolvimento no **WebTech Network**, focando no 
 
 ---
 
-### 📊 Github Stats
-
-![Status do Github](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=tokyonight)
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=fillmello&layout=compact&theme=tokyonight)
