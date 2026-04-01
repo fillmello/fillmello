@@ -2,9 +2,6 @@
 
 
 
-![fillmello's GitHub stats](https://github-readme-stats.vercel.app/api?username=fillmello&show_icons=true&theme=dracula&hide_border=true&card_hieght=123&border_radius=0)
-
-
 ---
 
 As you can tell by my stats, I'm new to coding in general.
