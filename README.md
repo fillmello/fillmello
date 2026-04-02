@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=rect&color=00bfbf&height=50"/>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bfbf&height=50&section=header" width="100%"/>
 
 ### `Desenvolvedor Front-end`
 
