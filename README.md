@@ -9,7 +9,7 @@ Minha abordagem no desenvolvimento prioriza entender a verdadeira dor do cliente
 
 ---
 
-### Main Stack:
+### 🛠️ Minha Stack & Ferramentas
 ![Node.js](https://img.shields.io/badge/-Node.js-0D1117?style=for-the-badge&logo=node.js&labelColor=0D1117)&nbsp;
 ![React](https://img.shields.io/badge/-React-0D1117?style=for-the-badge&logo=react&labelColor=0D1117)&nbsp;
 ![JavaScript](https://img.shields.io/badge/-JavaScript-0D1117?style=for-the-badge&logo=javascript&labelColor=0D1117)&nbsp;
@@ -19,7 +19,7 @@ Minha abordagem no desenvolvimento prioriza entender a verdadeira dor do cliente
 
 ---
 
-### Vamos nos conectar?
+### 📫 Vamos nos conectar?
 
 <div> 
   <a href="https://instagram.com/fillmello" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
