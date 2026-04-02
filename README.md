@@ -1,4 +1,4 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=f5f5f5&height=120&section=header"/>
+<div style="width:100%; height:50px; background-color:#00bfbf;"></div>
 
 ### `Desenvolvedor Front-end`
 
