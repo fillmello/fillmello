@@ -1,4 +1,4 @@
-<div style="width:100%; height:50px; background-color:#00bfbf;"></div>
+<img src="https://capsule-render.vercel.app/api?type=rect&color=00bfbf&height=50&section=header"/>
 
 ### `Desenvolvedor Front-end`
 
