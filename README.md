@@ -2,10 +2,15 @@
 
 ### `Desenvolvedor Front-end`
 
+🔭 Building scalable web applications at WebTech Network, working on real products used by university students  
 
-Atuo em Belo Horizonte, no Webtech Network, e estou cursando o 3º período de Engenharia de Software na **PUC Minas**. Atualmente, sou **Team Leader de uma equipe responsável pelo desenvolvimento do portal de Pós-Graduação da universidade.
+🌱 Focused on improving React, TypeScript and frontend architecture, with attention to clean and maintainable code  
 
-Minha abordagem no desenvolvimento prioriza entender a verdadeira dor do cliente para entregar soluções assertivas. Sou apaixonado por tecnologia e por compartilhar conhecimento, sempre focando em interfaces limpas, UX Design e escalabilidade.
+👯 Open to collaboration on frontend and fullstack projects, especially those involving real users and product thinking  
+
+⚡ Experience working with APIs, interface development and delivering features in production environments  
+
+💬 Ask me about React, JavaScript, frontend development and building real world applications  
 
 ---
 
