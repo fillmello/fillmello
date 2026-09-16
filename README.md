@@ -2,7 +2,7 @@
 
 ### `Desenvolvedor Front-end`
 
-🔭 Building scalable web applications at WebTech Network, working on real products used by university students  
+🔭 Building scalable web applications at dti Digital, working on real products used by university students  
 
 🌱 Focused on improving React, TypeScript and frontend architecture, with attention to clean and maintainable code  
 
