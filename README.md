@@ -1,6 +1,6 @@
 <img src="https://capsule-render.vercel.app/api?type=rect&color=f5f5f5&height=30&section=header" width="100%"/>
 
-### `Desenvolvedor Front-end`
+### `Desenvolvedor FullStack`
 
 🔭 Building scalable web applications at dti Digital, working on real products used by university students  
 
